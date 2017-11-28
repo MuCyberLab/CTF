@@ -1,2 +1,4 @@
-jpg dosyamızı indirdikten sonra Hacker Okan'a sağ tıklıyıp özelliklerine giriyoruz. Açılan pencerede ayrıntılara girince karşımıza base64 ile şifrelenmiş bir hash çıkıyor. Bunu base64 ile decode edince karşımıza flag çıkıyor.
+jpg dosyamızı indirdikten sonra Hacker Okan'a sağ tıklıyıp özelliklerine giriyoruz.![alt text](https://github.com/MuCyberLab/CTF/blob/master/Forensic/files/Hacker%20Okan.PNG?raw=true)
+
+Açılan pencerede ayrıntılara girince karşımıza base64 ile şifrelenmiş bir hash çıkıyor. Bunu base64 ile decode edince karşımıza flag çıkıyor.
 * mucyb3r_{öp_elimi}
