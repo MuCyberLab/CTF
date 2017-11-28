@@ -11,3 +11,5 @@ Dünya Üniversite Oyunları kısmında yaz olimpiyatlarının yapıldığı yı
 Yılları verilen sırayla yazdığımızda nişastanın hidroliz edilmesiyle oluşan karbonhidrat grubunun ismi olan DEKSTRİN flag değeri geliyordu.
 
 ![pic](https://github.com/MuCyberLab/CTF/blob/master/Joy/yillar.png)
+
+* mucyb3r_{dekstrin}
