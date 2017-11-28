@@ -3,6 +3,6 @@ Mimikatz i indirdikten sonra verilen dosyayı mimikatz'in klasörüne kopyalıyo
 Sırasıyla komutları giriyoruz:
 "privilege::debug" ve "sekurlsa::minidump lsass.DMP"
 
-![alt text](https://github.com/MuCyberLab/CTF/blob/master/Stegano/400.jpeg?raw=true)
+![alt text](https://github.com/MuCyberLab/CTF/blob/master/Stegano/files/400.jpeg?raw=true)
 
 flag: mucyb3r_{başöğretmen_ATATÜRK}
