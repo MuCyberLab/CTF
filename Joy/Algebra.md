@@ -27,7 +27,7 @@ Bu sorumuzda ilk önce denklemlerdeki x değerlerini tek tek bulmanız gerekiyor
 Bulduğumuz sayılar ASCII formatında olduğundan herhangi bir online ASCII Decoder sayfasında decode ettiğimizde flag değeri gayet açık bir 
 şekilde görülüyordu.
 
-![text](https://github.com/MuCyberLab/CTF/blob/master/Joy/algebra.png)
+![text](https://github.com/MuCyberLab/CTF/blob/master/Joy/files/algebra.png)
 
 
 * mucyb3r_{gut3n_m0rg3n}
