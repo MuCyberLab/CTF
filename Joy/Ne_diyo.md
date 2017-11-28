@@ -8,7 +8,7 @@ Ardından dosyayı [Sonic Visualiser](http://www.sonicvisualiser.org/download.ht
 
 ![pic](https://github.com/MuCyberLab/CTF/blob/master/Joy/sonic.png)
 
-Ardından bu satırda yazanları online bir [Vigenere Cipher]() yardımıyla key değerimizi girerek flag değerine ulaşıyoruz. 
+Ardından bu satırda yazanları online bir [Vigenere Cipher](https://www.dcode.fr/vigenere-cipher) yardımıyla key değerimizi girerek flag değerine ulaşıyoruz. 
 
 ![pic](https://github.com/MuCyberLab/CTF/blob/master/Joy/vigenere.png)
 
