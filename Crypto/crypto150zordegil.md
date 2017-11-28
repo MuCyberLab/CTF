@@ -2,4 +2,4 @@ Klasik bir şifreleme yöntemi olan Vigenére ile şifrelenmiş veriyi verilen k
 
 https://www.dcode.fr/vigenere-cipher
 
-flag: mucyb3r_{blaise_de_vigenere}
+* flag: mucyb3r_{blaise_de_vigenere}
